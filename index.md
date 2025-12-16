@@ -24,3 +24,10 @@ You can also add figures to your book.
 
 GIS Programming with Python Book Cover.
 :::
+
+This is a test example
+
+## Demos
+
+### Example 1
+![](https://mastering-shiny.org/cover.png)
